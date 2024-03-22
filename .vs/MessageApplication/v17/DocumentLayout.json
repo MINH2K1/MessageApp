@@ -1,0 +1,253 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\MessageApp\\MessageApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB62A019-37F0-4BEF-8526-15FF5EB891BA}|MessageApplication\\MessageApplication.csproj|c:\\users\\admin\\desktop\\messageapp\\messageapplication\\messageapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB62A019-37F0-4BEF-8526-15FF5EB891BA}|MessageApplication\\MessageApplication.csproj|solutionrelative:messageapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB62A019-37F0-4BEF-8526-15FF5EB891BA}|MessageApplication\\MessageApplication.csproj|c:\\users\\admin\\desktop\\messageapp\\messageapplication\\messageapplication\\viewmodel\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB62A019-37F0-4BEF-8526-15FF5EB891BA}|MessageApplication\\MessageApplication.csproj|solutionrelative:messageapplication\\viewmodel\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB62A019-37F0-4BEF-8526-15FF5EB891BA}|MessageApplication\\MessageApplication.csproj|c:\\users\\admin\\desktop\\messageapp\\messageapplication\\messageapplication\\service\\auth\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB62A019-37F0-4BEF-8526-15FF5EB891BA}|MessageApplication\\MessageApplication.csproj|solutionrelative:messageapplication\\service\\auth\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB62A019-37F0-4BEF-8526-15FF5EB891BA}|MessageApplication\\MessageApplication.csproj|c:\\users\\admin\\desktop\\messageapp\\messageapplication\\messageapplication\\service\\interface\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB62A019-37F0-4BEF-8526-15FF5EB891BA}|MessageApplication\\MessageApplication.csproj|solutionrelative:messageapplication\\service\\interface\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB62A019-37F0-4BEF-8526-15FF5EB891BA}|MessageApplication\\MessageApplication.csproj|c:\\users\\admin\\desktop\\messageapp\\messageapplication\\messageapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EB62A019-37F0-4BEF-8526-15FF5EB891BA}|MessageApplication\\MessageApplication.csproj|solutionrelative:messageapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB62A019-37F0-4BEF-8526-15FF5EB891BA}|MessageApplication\\MessageApplication.csproj|c:\\users\\admin\\desktop\\messageapp\\messageapplication\\messageapplication\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB62A019-37F0-4BEF-8526-15FF5EB891BA}|MessageApplication\\MessageApplication.csproj|solutionrelative:messageapplication\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB62A019-37F0-4BEF-8526-15FF5EB891BA}|MessageApplication\\MessageApplication.csproj|c:\\users\\admin\\desktop\\messageapp\\messageapplication\\messageapplication\\viewmodel\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB62A019-37F0-4BEF-8526-15FF5EB891BA}|MessageApplication\\MessageApplication.csproj|solutionrelative:messageapplication\\viewmodel\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB62A019-37F0-4BEF-8526-15FF5EB891BA}|MessageApplication\\MessageApplication.csproj|c:\\users\\admin\\desktop\\messageapp\\messageapplication\\messageapplication\\dbcontext\\messagecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB62A019-37F0-4BEF-8526-15FF5EB891BA}|MessageApplication\\MessageApplication.csproj|solutionrelative:messageapplication\\dbcontext\\messagecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Desktop\\MessageApp\\MessageApplication\\MessageApplication\\Migrations\\20240322134752_initialdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MessageApplication\\Migrations\\20240322134752_initialdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB62A019-37F0-4BEF-8526-15FF5EB891BA}|MessageApplication\\MessageApplication.csproj|c:\\users\\admin\\desktop\\messageapp\\messageapplication\\messageapplication\\models\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB62A019-37F0-4BEF-8526-15FF5EB891BA}|MessageApplication\\MessageApplication.csproj|solutionrelative:messageapplication\\models\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB62A019-37F0-4BEF-8526-15FF5EB891BA}|MessageApplication\\MessageApplication.csproj|c:\\users\\admin\\desktop\\messageapp\\messageapplication\\messageapplication\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB62A019-37F0-4BEF-8526-15FF5EB891BA}|MessageApplication\\MessageApplication.csproj|solutionrelative:messageapplication\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB62A019-37F0-4BEF-8526-15FF5EB891BA}|MessageApplication\\MessageApplication.csproj|c:\\users\\admin\\desktop\\messageapp\\messageapplication\\messageapplication\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB62A019-37F0-4BEF-8526-15FF5EB891BA}|MessageApplication\\MessageApplication.csproj|solutionrelative:messageapplication\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB62A019-37F0-4BEF-8526-15FF5EB891BA}|MessageApplication\\MessageApplication.csproj|c:\\users\\admin\\desktop\\messageapp\\messageapplication\\messageapplication\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB62A019-37F0-4BEF-8526-15FF5EB891BA}|MessageApplication\\MessageApplication.csproj|solutionrelative:messageapplication\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB62A019-37F0-4BEF-8526-15FF5EB891BA}|MessageApplication\\MessageApplication.csproj|c:\\users\\admin\\desktop\\messageapp\\messageapplication\\messageapplication\\models\\groupuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB62A019-37F0-4BEF-8526-15FF5EB891BA}|MessageApplication\\MessageApplication.csproj|solutionrelative:messageapplication\\models\\groupuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MessageApp\\MessageApplication\\MessageApplication\\Service\\Interface\\IAuthService.cs",
+              "RelativeDocumentMoniker": "MessageApplication\\Service\\Interface\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\MessageApp\\MessageApplication\\MessageApplication\\Service\\Interface\\IAuthService.cs",
+              "RelativeToolTip": "MessageApplication\\Service\\Interface\\IAuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T15:04:05.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MessageApp\\MessageApplication\\MessageApplication\\Service\\Auth\\AuthService.cs",
+              "RelativeDocumentMoniker": "MessageApplication\\Service\\Auth\\AuthService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\MessageApp\\MessageApplication\\MessageApplication\\Service\\Auth\\AuthService.cs",
+              "RelativeToolTip": "MessageApplication\\Service\\Auth\\AuthService.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAwwCkAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T14:42:43.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MessageApp\\MessageApplication\\MessageApplication\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "MessageApplication\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\MessageApp\\MessageApplication\\MessageApplication\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "MessageApplication\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAASwBwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T14:01:30.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MessageApp\\MessageApplication\\MessageApplication\\Program.cs",
+              "RelativeDocumentMoniker": "MessageApplication\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\MessageApp\\MessageApplication\\MessageApplication\\Program.cs",
+              "RelativeToolTip": "MessageApplication\\Program.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAowEEAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T13:35:25.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MessageApp\\MessageApplication\\MessageApplication\\ViewModel\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "MessageApplication\\ViewModel\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\MessageApp\\MessageApplication\\MessageApplication\\ViewModel\\RegisterViewModel.cs",
+              "RelativeToolTip": "MessageApplication\\ViewModel\\RegisterViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T13:41:53.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MessageApp\\MessageApplication\\MessageApplication\\appsettings.json",
+              "RelativeDocumentMoniker": "MessageApplication\\appsettings.json",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\MessageApp\\MessageApplication\\MessageApplication\\appsettings.json",
+              "RelativeToolTip": "MessageApplication\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-22T13:35:27.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MessageApp\\MessageApplication\\MessageApplication\\ViewModel\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "MessageApplication\\ViewModel\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\MessageApp\\MessageApplication\\MessageApplication\\ViewModel\\LoginViewModel.cs",
+              "RelativeToolTip": "MessageApplication\\ViewModel\\LoginViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T13:41:32.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MessageContext.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MessageApp\\MessageApplication\\MessageApplication\\DbContext\\MessageContext.cs",
+              "RelativeDocumentMoniker": "MessageApplication\\DbContext\\MessageContext.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\MessageApp\\MessageApplication\\MessageApplication\\DbContext\\MessageContext.cs",
+              "RelativeToolTip": "MessageApplication\\DbContext\\MessageContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T13:36:04.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20240322134752_initialdatabase.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MessageApp\\MessageApplication\\MessageApplication\\Migrations\\20240322134752_initialdatabase.cs",
+              "RelativeDocumentMoniker": "MessageApplication\\Migrations\\20240322134752_initialdatabase.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\MessageApp\\MessageApplication\\MessageApplication\\Migrations\\20240322134752_initialdatabase.cs",
+              "RelativeToolTip": "MessageApplication\\Migrations\\20240322134752_initialdatabase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T13:47:52.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Group.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MessageApp\\MessageApplication\\MessageApplication\\Models\\Group.cs",
+              "RelativeDocumentMoniker": "MessageApplication\\Models\\Group.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\MessageApp\\MessageApplication\\MessageApplication\\Models\\Group.cs",
+              "RelativeToolTip": "MessageApplication\\Models\\Group.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T13:37:36.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MessageApp\\MessageApplication\\MessageApplication\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "MessageApplication\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\MessageApp\\MessageApplication\\MessageApplication\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "MessageApplication\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T13:39:59.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MessageApp\\MessageApplication\\MessageApplication\\Models\\Message.cs",
+              "RelativeDocumentMoniker": "MessageApplication\\Models\\Message.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\MessageApp\\MessageApplication\\MessageApplication\\Models\\Message.cs",
+              "RelativeToolTip": "MessageApplication\\Models\\Message.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T13:37:09.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GroupUser.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MessageApp\\MessageApplication\\MessageApplication\\Models\\GroupUser.cs",
+              "RelativeDocumentMoniker": "MessageApplication\\Models\\GroupUser.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\MessageApp\\MessageApplication\\MessageApplication\\Models\\GroupUser.cs",
+              "RelativeToolTip": "MessageApplication\\Models\\GroupUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T13:38:05.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MessageApp\\MessageApplication\\MessageApplication\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "MessageApplication\\Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\MessageApp\\MessageApplication\\MessageApplication\\Models\\AppUser.cs",
+              "RelativeToolTip": "MessageApplication\\Models\\AppUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T13:32:13.339Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
